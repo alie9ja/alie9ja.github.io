@@ -1,17 +1,49 @@
 ---
-published: false
-title: September 4, 2016
+published: true
+title: My love affair with blogging platforms, and why I'm now on TinyPress
 layout: post
 ---
 So my quest for the perfect blogging platform continues.
 
-And it's brought me here. Very interesting, so far. I already have a fully-functioning Squarespace site I've been maintaining for two years. And I am happy with the result. It's polished and slick, for very little work on my end. I like how full-featured it is and how modular everything is. However, I find the act of writing / creating something lacking. The blogging end of it is pretty slow and laggy which hinders my thought process. I don't like that. It creates a barrier which, based on how far and few in between my posts are, obviously discourages me from creating. 
+And it's brought me here. Very interesting, so far. I already have a fully-functioning [Squarespace](https://www.squarespace.com/) site I've been maintaining for two years. And I am happy with the result. It's polished and slick, for very little work on my end. I like how full-featured it is and how modular everything is. However, I find the act of writing / creating something lacking. The blogging end of it is pretty slow and laggy which hinders my thought process. I don't like that. It creates a barrier which, based on how far and few in between my posts are, obviously discourages me from creating. 
 
 I created my Squarespace site as: #1, a repository for all my advertising work, and #2, a place where I can maintain a personal blog. It has served its purpose well. Hey, I'm paying $100++ a year for the damn thing. I just feel like I need to try some of the other stuff out there. 
 
-I definitely don't want to create another Wordpress site. How many Wordpress accounts have I made through the years? There's just something about it I don't really like that I can't quite put my finger on. Part of it's aesthetic. There's something about the way it looks that I don't find appealing. When it comes to the stuff I use, any stuff, anything, how it looks is as important to me as what it does. It just is. It makes me want to use whatever it is more if I find it visually appealing. Plus, I already use Wordpress at work and I don't want to be reminded of work while I'm doing my own thing.
+I definitely don't want to create another [WordPress](https://wordpress.com/) site. How many WordPress accounts have I made through the years? There's just something about it I don't really like that I can't quite put my finger on. Part of it's aesthetic. There's something about the way it looks that I don't find appealing. When it comes to the stuff I use, any stuff, anything, how it looks is as important to me as what it does. It just is. It makes me want to use whatever it is more if I find it visually appealing. Plus, I already use Wordpress at work and I don't want to be reminded of work while I'm doing my own thing.
 
-I also don't like Blogger. I find its vibe old, its interface clunky, and visually unattractive.
+I also don't like Blogger. I find its vibe old, its interface clunky, and visually unattractive. And Google has enough of my information already.
 
-Posthaven seems nice. For just five bucks a month, I get a blog that will be around "forever" (though I'm kinda iffy about that claim of theirs) and easy to use. I haven't tried it yet, so you might say, "Then how did you know it's gonna be easy to use?" 
+[Posthaven](https://posthaven.com/) seems nice. For just five bucks a month, I get a blog that will be around "forever" (though I'm kinda iffy about that claim of theirs) and easy to use. I haven't tried it yet, so you might say, "Then how did you know it's gonna be easy to use?" I'm basing my opinion off of my experience with Posterous which I _loved_ back when it was still around. But 
+
+I created an account with [Ghost](https://ghost.org/) and toyed with it a bit. I like it! The interface is simple, and the thing is fast. I also like how it's open source. I hate proprietary standards. I don't like not having full ownership of something I own; don't give me permission because I don't need your permission. Of course going all-out open source on _everything_ is not that easy nor feasible, that's why whenever I see something that's open, I look at it right away and see if it's something I can use or if it can replace some closed thing I'm already using. Going back to Ghost, I'm not exactly sold on the fact that they put you in different tiers based on your blog's traffic. Not that it's going to affect me in the near future; I don't think I'm even going to reach the minimum cutoff of 25,000 page views... but then it's already eight bucks for that, so if there's something close to it or similar to it for cheaper or free then that's where I'll go -- considering everything else, of course, like how it looks, ease-of-use, etc. I'm not averse to paying for stuff. I just weigh everything really closely and try to find the value _sweet spot_ in everything. *But*, I'm not discounting Ghost. I'm still going to work with it and see how it checks out long term because it's such a good platform. 
+
+[Kirby](https://getkirby.com/) looked like it was something I could get into, but it requires a lot of coding and: #1, I only know HTML/CSS and Markdown, and #2: I want something that's easy to maintain and to get up-and-running in mere minutes.
+
+[Medium](https://medium.com/) appealed to me. It looks good, it's fast, and it's simple. So I created an account a while back, but found I haven't really used it much. There's something about it being a social network at the same time that turns me off. Now it's all about creating contacts and dealing with insincere people who are there to gain a following and not really to write. Whether the social aspect of it will influence me or not, I don't want something like that looming somewhere in the back of my mind every time I'm writing something. I don't have the patience for another internet popularity contest. Sure it's a good way to get your name out there and earn readers, but I don't know... part of me kind of thinks I like the idea of a lot of people (potentially) reading the stuff I write -- that there's a ready audience for whatever I put out there -- but part of me don't want to deal with the concerns of whether someone's read or like or shared what I wrote. You can always argue I don't have to do that, but knowing that that option's in place will keep scratching my mind and sooner or later I'll have to check and then it's all about social social social and not about just dumping my thoughts. Plus, it's a closed network. I'm pretty much giving them, and letting them own, my content (whether it's of any value or not is another issue). So... nah. 
+
+[Svbtle](https://svbtle.com/) tempted me for a bit. It's simple, minimalist, and fast. For just $6 a month, everything's set up for you, easy peasy. Not bad at all. Similar to Posthaven, Svbtle comes with the promise that everything you publish will be online forever. But at the end of the day, you're still subjected to the whims of the people behind Svbtle or the [people who may potentially buy Svbtle](https://svbtle.com/promise) in the future. You'll never know. So there's that. 
+
+[Postagon](https://www.postagon.com/) is clean and neat and minimalist, in terms of the user experience. It actually reminds me of Posterous. They also market themselves as "Blogging for true minimalists." It's very nice and intuitive and the result looks very polished. But it's eight bucks a month and again, if they decide to sell out or close shop, then my content's out on the streets. Sometimes I feel like I contradict myself on a lot of things. A feature I like somewhere, I don't like somewhere else, and vice versa. It's just that I'm very particular about getting the sweet spot juuust right. I appreciate how simple and easy they make blogging, but it's lacking... something... I can't quite put my finger on it. Maybe because at the same time, I'm also looking for a new experience? For now, not for me.
+
+[Jekyll](https://jekyllrb.com/) is something I wanted to try but I don't wanna deal with command lines in the meantime. When I free up my resources in the future, maybe. I mean, it's something new that I have to learn and master, and that's always a good thing; I'm always up for learning new things. But not now. I just want to put my thoughts out there as fast as possible, under the parameters and standards I set for myself. Though, in a way, I already am using Jekyll since TinyPress is powered by Jekyll and the Github API.
+
+I seriously considered [Anchor](https://anchorcms.com/), but again, I don't want to have to deal with coding from scratch and self-hosting, at least for now.
+
+People love [Silvrback](https://www.silvrback.com/), but I don't. I find it too dark and cold. 
+
+[Tumblr](https://www.tumblr.com/)... just like WordPress, I've already forgotten how many Tumblr accounts I've made through the years. It's simple, sure. Quick and easy, definitely. But it doesn't strike me as somewhere I'd like to write in. Not to mention all the pseudo-intellectual leftist conformist hipsters that comprises 99% of its population. Ugh. I'll pass. 
+
+[Postach.io](https://postach.io/site) was something I considered. I own all my content, and it works through Evernote. Simple enough. But at $9 a month, for simply having what is essentially, a public Evernote notebook, hmm, not right now. 
+
+Around the time I started my Squarespace site, I also considered Scriptogram, but didn't push through with it. And I guess it's a good thing, too, since [they're now shut](http://scriptogr.am/). See? This is why I don't like closed platforms. You don't fully control it. If they fold, then goodbye to you; you now have to migrate your stuff somewhere else. 
+
+Which brings me to... well, here. [Tinypress](https://tinypress.co/). I love it, so far! It's open source, utilizes Github (which I admit, is something I've always wanted to learn about but never have since I'm not a programmer/developer), and free! I was surprised to learn just earlier today that Tinypress is now free, because I remember this being one of my options before, one of the things I was considering, before I decided on going with Squarespace, and this was $9.99 a month, back then. So you can just imagine how thrilled I was today. 
+
+And there you have it. Why I'm on Tinypress right now. 
+
+ 
+
+
+
+
 
