@@ -11,7 +11,7 @@ I created my Squarespace site as: #1, a repository for all my advertising work, 
 
 I definitely don't want to create another [WordPress](https://wordpress.com/) site. How many WordPress accounts have I made through the years? There's just something about it I don't really like that I can't quite put my finger on. Part of it's aesthetic. There's something about the way it looks that I don't find appealing. When it comes to the stuff I use, any stuff, anything, how it looks is as important to me as what it does. It just is. It makes me want to use whatever it is more if I find it visually appealing. Plus, I already use Wordpress at work and I don't want to be reminded of work while I'm doing my own thing.
 
-I also don't like Blogger. I find its vibe old, its interface clunky, and visually unattractive. And Google has enough of my information already.
+<u>I also don't like Blogger.</u> I find its vibe old, its interface clunky, and visually unattractive. And Google has enough of my information already.
 
 [Posthaven](https://posthaven.com/) seems nice. For just five bucks a month, I get a blog that will be around "forever" (though I'm kinda iffy about that claim of theirs) and easy to use. I haven't tried it yet, so you might say, "Then how did you know it's gonna be easy to use?" I'm basing my opinion off of my experience with Posterous which I _loved_ back when it was still around. But 
 
