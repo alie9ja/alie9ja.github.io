@@ -3,7 +3,7 @@ published: true
 title: My love affair with blogging platforms, and why I'm now on TinyPress
 layout: post
 ---
-So my quest for the perfect blogging platform continues.
+<u>So my quest for the perfect blogging platform continues.</u>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wHWbZmg2hzU" frameborder="0" allowfullscreen></iframe>
 And it's brought me here. Very interesting, so far. I already have a fully-functioning [Squarespace](https://www.squarespace.com/) site I've been maintaining for two years. And I am happy with the result. It's polished and slick, for very little work on my end. I like how full-featured it is and how modular everything is. However, I find the act of writing / creating something lacking. The blogging end of it is pretty slow and laggy which hinders my thought process. I don't like that. It creates a barrier which, based on how far and few in between my posts are, obviously discourages me from creating. 
 
